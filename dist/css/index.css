@@ -1,0 +1,18 @@
+#study {
+  width: 300px;
+  height: 300px;
+  background-color: #000;
+}
+body{
+    background-color: pink;
+    color: olivedrab;
+}
+
+.img{
+    background-image: url(http://localhost:8888/images/bfc23a6b38481a714295a2cf65fb090c.png);
+    width:466px;
+    height:453px;
+}body {
+  background-color: aqua; }
+  body div {
+    background-color: blanchedalmond; }
